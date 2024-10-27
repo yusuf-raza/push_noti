@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056612815741",
+    "project_id": "pushnoti-3e87c",
+    "storage_bucket": "pushnoti-3e87c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056612815741:android:321da7ed174413571ff214",
+        "android_client_info": {
+          "package_name": "com.ysf.push_noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaoMk8-XdEp2YqyxAZ1o8FIlOtOkOIFGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
